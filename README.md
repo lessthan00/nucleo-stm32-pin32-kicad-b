@@ -11,9 +11,15 @@ https://www.st.com.cn/zh/evaluation-tools/nucleo-l432kc.html#cad-resources
 这是最小开发板,为了32pin的stm32
 
 修改记录
+
 改D1器件的SMAJ6.5CA为AMJ5.0CA
+
 改D2器件的SMAJ5.0CA为SMF3.3CA
+
 LED2改为5Vred
+
 LED3改为3V3red
+
 LED4改为green
+
 补全丝印
